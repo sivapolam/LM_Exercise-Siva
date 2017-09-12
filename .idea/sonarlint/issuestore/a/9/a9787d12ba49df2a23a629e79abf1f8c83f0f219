@@ -1,0 +1,5 @@
+
+csquid:UselessImportCheck"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8ƒüç+
+Lsquid:S1481"+Remove this unused "prefix" local variable.(±áòŠøÿÿÿÿ8ƒüç+
+bsquid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8ƒüç+
+Esquid:S1068")Remove this unused "mCurr" private field.(Û“Âê8ƒüç+
